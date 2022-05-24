@@ -3,4 +3,4 @@ A Dice game
 
 Click here
 
-[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
+[![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://celebrated-cocada-cb84c3.netlify.app/) "RMI Fibonacci Java")
